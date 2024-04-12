@@ -1,0 +1,19 @@
+{
+  "name": "footer",
+  "version": "0.0.1",
+  "description": "A footer-focused library",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [],
+  "author": "gantoho",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
+}

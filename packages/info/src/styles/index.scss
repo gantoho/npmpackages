@@ -1,0 +1,11 @@
+.footer-info {
+  a {
+    color: rgb(0, 162, 255);
+    &:hover {
+      color: rgb(0, 255, 128);
+    }
+    &:active {
+      color: rgb(255, 85, 85);
+    }
+  }
+}
